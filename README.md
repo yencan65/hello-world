@@ -1,3 +1,3 @@
 # hello-world
 hi guys
-I am her to learn about code
+I am here to learn about code
